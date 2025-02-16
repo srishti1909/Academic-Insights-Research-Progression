@@ -228,28 +228,5 @@ In specific, the `handle_file_upload` function performs the following tasks:
 
 we have made it more engaging, interactive, and practical for users who wish to update the university ranking information easily.
 
-## Contributions
 
-The development of this Dash application was a collaborative effort of a team of 2 members. Each team member contributed in various ways to the application's development, testing, and documentation.
 
-### Team Members and Tasks
-
-**Srishti Sharma**:
-
-  - Developed widgets: University Rankings, New Publications, Collaboration Viewer, Yearly Rankings, Top Keywords, and Keyword Trends.
-  - Mentored on Python-related questions.
-  - Created CSS stylesheets and applied inline styles to various bootstrap components.
-  - Implemented database changes.
-  - Conducted peer review, testing, and quality assurance.
-
-**Sruthi Jaganathan**:
-
-- Added comments to the code for readability.
-- Created CSS stylesheets
-- Contributed to the documentation
-- Conducted peer review, testing, and quality assurance.
-- Created the video demo.
-
-### Time Spent
-
-Each team member spent approximately 40 hours on the overall project. The team discussed and brainstormed ideas to implement various widgets and finally decided on the above mentioned six widgets. Throughout the project, both team members contributed to refining the functionality of the Dashboard, ensuring a high-quality user experience.
