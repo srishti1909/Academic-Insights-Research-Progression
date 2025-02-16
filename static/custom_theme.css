@@ -1,0 +1,54 @@
+.navbar-brand {
+    margin-left: 0;
+}
+
+/* Add some space around the tabs content */
+.tab-content {
+    margin-top: 2rem;
+}
+
+/* Customize the look of the cards in the components */
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 2rem;
+}
+
+.card-header {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+/* Custom radio button styling */
+.custom-radio .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #007bff;
+}
+
+.input-group-text {
+    background-color: #e9ecef;
+    width: 200px;
+    text-align: right;
+}
+
+.input-group-text-collab {
+    background-color: #e9ecef;
+    width: auto;
+    text-align: right;
+}
+
+.faculty-photo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.faculty-photo {
+    max-height: 325px;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+
+
